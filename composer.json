@@ -1,0 +1,5 @@
+{
+    "require": {
+        "thefox/smtpd": "~0.3"
+    }
+}
